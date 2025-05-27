@@ -1,17 +1,23 @@
 {
   "name": "zhushou_zhuanfa",
   "version": "1.0.0",
-  "description": "",
+  "description": "插件转发服务",
   "main": "index.js",
   "scripts": {
-    "serve": "node index.js"
+    "serve": "node index.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "clipboardy": "^4.0.0",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "http-proxy-middleware": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
