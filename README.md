@@ -14,7 +14,7 @@
 
 ```bash
 # 安装依赖
-npm install
+pnpm install
 ```
 
 ## 使用方法
@@ -24,10 +24,10 @@ npm install
 
 ```bash
 # 开发模式（支持热重载）
-npm run dev
+pnpm dev
 
 # 或者正常启动
-npm start
+pnpm start
 ```
 
 3. 访问 `http://localhost:3321` 查看管理界面
