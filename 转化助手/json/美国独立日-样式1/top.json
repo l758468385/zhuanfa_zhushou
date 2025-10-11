@@ -1,0 +1,21 @@
+{
+  "pcBg": "",
+  "bgColor": "",
+  "bgWidth": "100%",
+  "bgHeight": "",
+  "mobileBgHeight": "",
+  "mobileBg": "",
+  "pcLeftBg": "https://us-east-conversion-assistant-apps.thecloudcdn.com/assets/main/festival/independenceDay/top-left.png",
+  "pcRightBg": "https://us-east-conversion-assistant-apps.thecloudcdn.com/assets/main/festival/independenceDay/top-right.png",
+  "mobileLeftBg": "https://us-east-conversion-assistant-apps.thecloudcdn.com/assets/main/festival/independenceDay/top-left.png",
+  "mobileBgWidth": "100%",
+  "mobileRightBg": "https://us-east-conversion-assistant-apps.thecloudcdn.com/assets/main/festival/independenceDay/top-right.png",
+  "pcLeftBgWidth": "120px",
+  "pcLeftBgHeight": "90px",
+  "pcRightBgWidth": "120px",
+  "pcRightBgHeight": "60px",
+  "mobileLeftBgWidth": "75px",
+  "mobileLeftBgHeight": "56px",
+  "mobileRightBgWidth": "105px",
+  "mobileRightBgHeight": "53px"
+}

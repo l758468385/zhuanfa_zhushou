@@ -22,7 +22,7 @@ module.exports = {
     {
       name: "apm",
       route: "/apm.js",
-      path: "../lf-apm-frontend/dist/apm.js",
+      path: "../lf-apm-frontend/dist/apm.test.js",
       enabled: true,
     },
     {
@@ -35,7 +35,7 @@ module.exports = {
       name: "old-history",
       route: "/oldHistory.js",
       path: "../shopify-order-Store/dist/shopify-history.js",
-      enabled: false,
+      enabled: true,
     },
     {
       name: "jsy",
@@ -47,6 +47,12 @@ module.exports = {
       name: "pixel-conversion",
       route: "/pixel-conversion.js",
       path: "d:/phpstudy_pro/WWW/with-blade/extensions/pixel-conversion/assets/app.js",
+      enabled: true,
+    },
+    {
+      name: "worry-free-purchase",
+      route: "/worry-free-purchase.js",
+      path: "../worryfreepurchase-store/dist/index.js",
       enabled: true,
     },
   ],
