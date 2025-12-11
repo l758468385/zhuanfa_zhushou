@@ -55,5 +55,21 @@ module.exports = {
       path: "../worryfreepurchase-store/dist/index.js",
       enabled: true,
     },
+
+    // wshop 本地 ga
+     {
+      name: "ga",
+      route: "/ga.js",
+      path: "d:/phpstudy_pro/WWW/wshop/platform/resources/views/applications/GoogleAnalysis/index.js",
+      enabled: true,
+    },
+
+    // wshop 本地 gads
+     {
+      name: "gads",
+      route: "/gads.js",
+      path: "d:/phpstudy_pro/WWW/wshop/platform/resources/views/applications/GoogleAds/index.js",
+      enabled: true,
+    },
   ],
 }; 
